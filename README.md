@@ -15,4 +15,5 @@ To maintain my growth mindset for this course I remind myself of three things to
 3.	Finally my father went through a similar course in 2018 and now has a high paying work from home position, and if I want the same. Then I must succeed 
 
 [Link to my Github Profile](https://github.com/Niles086)
+
 [LinkedIn](www.linkedin.com/in/niles-thompson)
