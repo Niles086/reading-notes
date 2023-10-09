@@ -3,6 +3,7 @@
 Seattle-Code-102
 
 ## Growth Mindset
+
 ![Profile Pic](https://media.licdn.com/dms/image/D5603AQG1aETS_ysV1Q/profile-displayphoto-shrink_200_200/0/1670481245159?e=1702512000&v=beta&t=woiwnDlg4RG1iYpvfEW09f6LF4RzkEhH2U5q8haJ0Mc)
 
 **Hello my name is Niles Thompson and these are my reading notes on Growth Mindset.**
