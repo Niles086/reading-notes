@@ -4,6 +4,7 @@ Seattle-Code-102
 
 ## Growth Mindset
 ![Profile Pic](https://media.licdn.com/dms/image/D5603AQG1aETS_ysV1Q/profile-displayphoto-shrink_200_200/0/1670481245159?e=1702512000&v=beta&t=woiwnDlg4RG1iYpvfEW09f6LF4RzkEhH2U5q8haJ0Mc)
+
 **Hello my name is Niles Thompson and these are my reading notes on Growth Mindset.**
 
 To me the term growth mindset means that not a single person on this planet was born with the knowledge to do anything in life. We all had to learn, we all had to seek education for what we wanted to learn. From the time we are born we must keep that mindset wither we are conscious of it or not. This can be applied to learning to walk, learning to read, or even this Class. The belief that we are capable of learning and putting in the work is a growth mindset to me.
