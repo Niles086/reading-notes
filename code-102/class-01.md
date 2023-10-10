@@ -18,6 +18,7 @@ Markdown's simplicity is one of its greatest strengths. It employs a straightfor
 
                    Example # header1 ## header2 ###header3
 
+
 2. Text styling is another easy benifit. simply by using either **** or ** on either side of text you can Bold it or Italicise it. Of course though their are no spaces.
 
                    Example *Italic* or _Italic_ **Bold** or __Bold__
