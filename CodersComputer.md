@@ -14,6 +14,8 @@ The **tree** command is fantastic for getting a visual representation of your fi
 
 If you're a developer, the **code .** command is a real time-saver. It opens Microsoft Visual Studio Code directly from your current terminal directory, making it a seamless transition from the command line to coding.
 
+The **cd** command, short for "Change Directory," is a basic command in command-line interfaces, including the Windows Command Prompt. It is used to navigate and change your current working directory within the file system.
+
 Lastly, we have **mv** and **cp**. The mv command allows you to move files or folders from one location to another, while cp lets you create a copy of a file or folder. These commands are indispensable when you need to rearrange your files or back up important data.
 
 These CLI commands are the building blocks of efficient file and folder management. 
