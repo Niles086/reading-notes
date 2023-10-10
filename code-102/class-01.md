@@ -12,7 +12,8 @@ Markdown's simplicity is one of its greatest strengths. It employs a straightfor
 # Header 1
 ## Header 2
 ### Header 3
-
+Exanple
+        # header1 ## header2 ###header3
 2. Text styling is another easy benifit. simply by using either ** ** or * * on either side of text you can Bold it or Italicise it. Of course though their are no spaces.
 
  * Italic * or _ Italic _
