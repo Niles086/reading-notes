@@ -2,7 +2,7 @@
 
 In the world of Windows Command Line Interface (CLI), mastering a few essential commands can significantly enhance your productivity. Let's explore some fundamental commands that can make your file and folder management tasks a breeze.
 
-First up, the **ls** command. This simple yet powerful command allows you to list the contents of a directory, giving you a quick overview of what's inside. Whether you're navigating through your file system or just checking the files in your current folder, ls is your go-to command.
+        First up, the **ls** command. This simple yet powerful command allows you to list the contents of a directory, giving you a quick overview of what's inside. Whether you're navigating through your file system or just checking the files in your current folder, ls is your go-to command.
 
 Next, we have **mkdir**, which is short for "make directory." This command does exactly what it says—it creates a new folder or directory. Whether you're organizing your project files or setting up a new workspace, mkdir helps you keep your file structure neat and organized.
 
