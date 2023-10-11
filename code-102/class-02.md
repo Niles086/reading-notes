@@ -1,21 +1,35 @@
 # The Coder's Computer
 
+When searching for a good text editor, there are several crucial features to consider.
+
+1. Code Completion: A good text editor should offer code completion, which assists developers by suggesting and automatically completing code syntax, making coding faster and reducing errors.
+
+1. Syntax Highlighting: Syntax highlighting is a major feature to identify different parts of your code. It helps in understanding code structure and identifying errors more easily.
+
+1. Variety of Themes: A large selection of themes is valuable for reducing eye strain and fatigue during long coding sessions.
+
+1. Extensions: A good text editor should have a large library of extensions or plugins available. This allows you to setup the editor's functionality to your specific needs, making it a great tool for various coding languages.
+
+These features all enhance the coding experience, making a text editor more efficient, comfortable, and adaptable for developers.
+
 In the world of Windows Command Line Interface (CLI), mastering a few essential commands can significantly enhance your productivity. Let's explore some fundamental commands that can make your file and folder management tasks a breeze.
 
-First up, the **ls** command. This simple yet powerful command allows you to list the contents of a directory, giving you a quick overview of what's inside. Whether you're navigating through your file system or just checking the files in your current folder, ls is your go-to command.
+First up, the **ls** command. This command allows you to list the contents of a directory, giving you a quick overview of what's inside.
 
-Next, we have **mkdir**, which is short for "make directory." This command does exactly what it says—it creates a new folder or directory. Whether you're organizing your project files or setting up a new workspace, mkdir helps you keep your file structure neat and organized.
+         For example the ls projects/new-project command will list the contents of the new-project directory.
 
-Now, let's talk about the **touch** command. By using touch, you can quickly create new files. This is particularly handy when you're starting a new coding project or need to generate empty files for documentation purposes.
+Next, we have **mkdir**, which is short for "make directory." This command creates a new folder or directory.
 
-The **tree** command is fantastic for getting a visual representation of your file structure. It displays the hierarchy of folders and subfolders, making it easier to understand the layout of your directory.
+          For example mkdir new-project will create a new folder called new-project in your current directory.
 
-**PWD**, short for **"Print Working Directory,"** reveals your current location in the file system. It's excellent for keeping track of your location, especially when navigating through multiple folders and directories.
+Now, let's talk about the **touch** command. By using touch, you can quickly create new files. This comes in handy when you're starting a new coding project or need to generate empty files for documentation purposes.
 
-If you're a developer, the **code .** command is a real time-saver. It opens Microsoft Visual Studio Code directly from your current terminal directory, making it a seamless transition from the command line to coding.
+         For example touch new-project/newfile.md will create a new file named newfile.md in the new-project directory.
 
-The **cd** command, short for "Change Directory," is a basic command in command-line interfaces, including the Windows Command Prompt. It is used to navigate and change your current working directory within the file system.
+**PWD**, short for **"Print Working Directory,"** reveals your current location in the file system.
 
-Lastly, we have **mv** and **cp**. The mv command allows you to move files or folders from one location to another, while cp lets you create a copy of a file or folder. These commands are indispensable when you need to rearrange your files or back up important data.
+The **cd** command, short for "Change Directory," is a basic command it is used to navigate and change your current working directory within the file system.
 
-These CLI commands are the building blocks of efficient file and folder management. 
+          For example cd projects command will change your current working directory to the projects folder. Alternativly the cd .. will change the current working directory to the parent directory.
+
+These CLI commands are the building blocks of efficient file and folder management.
