@@ -184,4 +184,4 @@ for(let i = 0; i < 5; i++){
 }
 ++ 
 
-**The ++ ant the end is used to increase i by 1 every time it loops**
+**The ++ at the end is used to increase i by 1 every time it loops**

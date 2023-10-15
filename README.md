@@ -8,7 +8,7 @@ _This site will serve as a repository for all of my reading notes, projects, and
 
 [Link to my Github Profile](https://github.com/Niles086)
 
-[LinkedIn](www.linkedin.com/in/niles-thompson)
+[LinkedIn](https://www.linkedin.com/in/niles-thompson)
 
 ## Growth Mindset
 
