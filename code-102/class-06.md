@@ -46,9 +46,10 @@ The other pop-up is not really an input method. It allows the developer to ask a
  
           </script>
 
-Create function
+## Create function
+
 In JavaScript we use the function keyword for this followed by the name of the new function. Then the list of parameters in parentheses and then a block of expressions in curly braces. This is the body of the function.
----------------------------
+
           <script>
           f          unction show() {
             console.log('Hello World');
@@ -58,7 +59,7 @@ In JavaScript we use the function keyword for this followed by the name of the n
           show();
           console.log('after');
           </script>
---------------------------
+
 
           <script>
           function show() {
@@ -72,9 +73,10 @@ In JavaScript we use the function keyword for this followed by the name of the n
           show();
           </script>
 
------------------------------
 
-Function with parameters
+
+## Function with parameters
+
 A much more interesting case is when we also provide parameters to the function. In the next example, in the function declaration we wrote that we are going to accept a single value and we want it to be assigned to the name variable. Then, we called the function and passed a value to it. In every call we passed a different value.
 
 Inside the function the name variable holds the current value.
@@ -93,35 +95,31 @@ We can have one piece of code, that can be tested on it own, separately from the
           show('Zorg');
           </script>
 
-------------------------------
-Variables are Containers for Storing Data
-JavaScript Variables can be declared in 4 ways:
-
-Automatically
-Using var
-Using let will allow you to change variable or input variables that change over time
-
-Using const is constant variable does not change
-What are variables in JavaScript? container
+What are variables in JavaScript?
+**Variables are Containers for Storing Data**
 What does it mean to declare a variable?
+**JavaScript Variables can be declared in 4 ways:**
 
+* Automatically
+* Using var
+* Using **let** will allow you to change variable or input variables that change over time
+* Using **const** is constant variable does not change
 
 
 
 console.log(is a print function for variables);
 
-/3 Data types
-strings  numbers or names with quotation marks
-numbers  are plain numbers
-boolean  true or false 
+## 3 Data types
+
+* strings  numbers or names with quotation marks
+* numbers  are plain numbers
+* boolean  true or false 
 
 
-alert is a dynamin command 
+alert is a dynamic command 
 
-Promt('quickect way to get user input'); 
-message goes above 
+Promt('quickect way to get user input'); message goes inbetween the parenthesis ()
 
-declair variable for prompt 
-
+**declair variable for prompt** 
 let userName = prompt('What is your name');
 document.write(' Hello userName  ')  document write 
