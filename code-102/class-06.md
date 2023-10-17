@@ -120,6 +120,7 @@ alert is a dynamic command
 
 Promt('quickect way to get user input'); message goes inbetween the parenthesis ()
 
-**declair variable for prompt** 
+## **declair variable for prompt**
+
          let userName = prompt('What is your name');
-         document.write(' Hello userName  ')  document write 
+         document.write(' Hello userName  ')  document write
