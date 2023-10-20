@@ -21,7 +21,7 @@ To maintain my growth mindset for this course I remind myself of three things to
 
 ### TABLE OF CONTENTS
 
-**CODE 102 READING NOTES**
+## **CODE 102 READING NOTES**
 
 1. [Learning Markdown](https://niles086.github.io/reading-notes/code-102/class-01)
 1. [The Coder's Computer](https://niles086.github.io/reading-notes/code-102/class-02)
@@ -32,20 +32,29 @@ To maintain my growth mindset for this course I remind myself of three things to
 1. [Programming with JavaScript](https://niles086.github.io/reading-notes/code-102/class-07)
 1. [Operators and Loops](https://niles086.github.io/reading-notes/code-102/class-08)
 
-**Code 201 Reading Notes**
+## **Code 201 Reading Notes**
 
-1. [Class-01](https://niles086.github.io/reading-notes/code-201/class-01)
-1. [Class-02](https://niles086.github.io/reading-notes/code-201/class-02)
-1. [Class-03](https://niles086.github.io/reading-notes/code-201/class-03)
-1. [Class-04](https://niles086.github.io/reading-notes/code-201/class-04)
-1. [Class-05](https://niles086.github.io/reading-notes/code-201/class-05)
-1. [Class-06](https://niles086.github.io/reading-notes/code-201/class-06)
-1. [Class-07](https://niles086.github.io/reading-notes/code-201/class-07)
-1. [Class-08](https://niles086.github.io/reading-notes/code-201/class-08)
-1. [Class-09](https://niles086.github.io/reading-notes/code-201/class-09)
-1. [Class-10](https://niles086.github.io/reading-notes/code-201/class-10)
-1. [Class-11](https://niles086.github.io/reading-notes/code-201/class-11)
-1. [Class-12](https://niles086.github.io/reading-notes/code-201/class-12)
-1. [Class-13](https://niles086.github.io/reading-notes/code-201/class-13)
-1. [Class-14](https://niles086.github.io/reading-notes/code-201/class-14)
-1. [Class-15](https://niles086.github.io/reading-notes/code-201/class-15)
+1. [Class 01 - Setup Developer Toolbelt](https://niles086.github.io/reading-notes/code-201/class-01)
+1. [Class 02 - Introduction To Web Development](https://niles086.github.io/reading-notes/code-201/class-02)
+1. [Class 03 - Lists, The Box Model, and Loops](https://niles086.github.io/reading-notes/code-201/class-03)
+1. [Class 04 - Links, Layouts, and Functions](https://niles086.github.io/reading-notes/code-201/class-04)
+1. [Class 05 - Images, Color, Text, and More Work With Functions](https://niles086.github.io/reading-notes/code-201/class-05)
+1. [Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation](https://niles086.github.io/reading-notes/code-201/class-06)
+1. [Class 07 - HTML Tables and JS Constructor Functions](https://niles086.github.io/reading-notes/code-201/class-07)
+1. [Class 08 - Layout with CSS](https://niles086.github.io/reading-notes/code-201/class-08)
+1. [Class 09 - Forms and Events](https://niles086.github.io/reading-notes/code-201/class-09)
+1. [Class 10 - Debugging and Error Handling](https://niles086.github.io/reading-notes/code-201/class-10)
+1. [Class 11 - Audio and Video in HTML; Domain Modeling Revisited](https://niles086.github.io/reading-notes/code-201/class-11)
+1. [Class 12 - Canvas and ChartJS](https://niles086.github.io/reading-notes/code-201/class-12)
+1. [Class 13 - Introduction to Persistence with Local Storage](https://niles086.github.io/reading-notes/code-201/class-13)
+1. [Class 14 - Documentation, Project Selection, & Team Workflow](https://niles086.github.io/reading-notes/code-201/class-14)
+1. [Class 15 - Course Recap & 301 Preview](https://niles086.github.io/reading-notes/code-201/class-15)
+1. [Class 16 - Planning and Prep](https://niles086.github.io/reading-notes/code-201/class-16)
+1. [Class 17 - Development Sprint](https://niles086.github.io/reading-notes/code-201/class-17)
+1. [Class 18 - Working MVP](https://niles086.github.io/reading-notes/code-201/class-18)
+1. [Class 19 - Polish](https://niles086.github.io/reading-notes/code-201/class-19)
+1. [Class 20 - Presentations](https://niles086.github.io/reading-notes/code-201/class-20)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
