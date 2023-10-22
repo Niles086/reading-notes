@@ -19,9 +19,14 @@ To maintain my growth mindset for this course I remind myself of three things to
 2. I’m bound to make mistakes. The important thing is not to repeat them and learn from them.
 3. Finally my father went through a similar course in 2018 and now has a high paying work from home position, and if I want the same. Then I must succeed
 
+## READING NOTES SIDE PROJECTS LINKS
+
+1. [Prompt Engineering](https://niles086.github.io/reading-notes/prompt-engineering)
+1. [Learning Markdown](https://niles086.github.io/reading-notes/readingNotesSideProjects/Career Coaching Overview/)
+1. [Learning Markdown](https://niles086.github.io/reading-notes/readingNotesSideProjects/emotional_intelligence.md)
+
+
 ### TABLE OF CONTENTS
-
-
 
 ## **CODE 102 READING NOTES**
 
