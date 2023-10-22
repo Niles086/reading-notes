@@ -21,6 +21,8 @@ To maintain my growth mindset for this course I remind myself of three things to
 
 ### TABLE OF CONTENTS
 
+
+
 ## **CODE 102 READING NOTES**
 
 1. [Learning Markdown](https://niles086.github.io/reading-notes/code-102/class-01)
