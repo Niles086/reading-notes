@@ -23,7 +23,7 @@ To maintain my growth mindset for this course I remind myself of three things to
 
 1. [Prompt Engineering](https://niles086.github.io/reading-notes/prompt-engineering)
 1. [Career Coaching Overview](https://niles086.github.io/reading-notes/readingNotesSideProjects/Career_Coaching_Overview)
-1. [Emotional Intelligence](https://niles086.github.io/reading-notes/readingNotesSideProjects/emotional_intelligence.md)
+1. [Emotional Intelligence](https://niles086.github.io/reading-notes/readingNotesSideProjects/emotional_intelligence )
 
 ### TABLE OF CONTENTS
 
