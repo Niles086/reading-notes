@@ -54,7 +54,7 @@ Understanding how to add JavaScript to an HTML document is a fundamental skill w
 
 ## Semantics Questions
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an h1 element over a span element to display a top level heading?
 1. What are the benefits of using semantic tags in our HTML?
 
 ## Semantics Answers
