@@ -34,26 +34,30 @@
 
 1. What data types can you store inside of an Array?
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-## Example
+## People Array
 
        const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 3. List five shorthand operators for assignment in javascript and describe what they do.
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
+5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+6. Give an example of when a Loop is useful in JavaScript.
 
-        let a = 10;
-        let b = 'dog';
-        let c = false;
-             
-         // evaluate this
-        (a + c) + b;
+                let a = 10;
+                let b = 'dog';
+                let c = false;
+                     
+                 // evaluate this
+                (a + c) + b;
 
 ## JS Answers
 1. Numbers, strings, booleans, objects
 2. Yes it is and you can access values in this array using array indexing.
-3. += Addition Assignment: Adds the value of variable A to the value of veriable B and assigns the result back to B, -= Subtraction Assignment Subtracts the value of A from the current value of B and assigns the result back to B, *= Multiplication Assignment
+3. += Addition Assignment: Adds the value of variable A to the value of veriable B and assigns the result back to B, -= Subtraction Assignment Subtracts the value of A from the current value of B and assigns the result back to B, *= Multiplication Assignment this operator multiplies the current value of A by the value of B and assigns the result back to A,  /= Division Assignment this operator divides the current value of A by the value of B and assigns the result back to A, %= Modulus Assignment this operator calculates the remainder when the current value of A is divided by the value of B and assigns the result back to A
+4. It will show up as the string 10dog 
+5. Anytime you build a website that has user accounts. When a user tries to log in, you need to check their credentials to decide if they should be granted access. A conditional statement can be used here.
+6. Loops are very useful for repetitive tasks or for processing collections of data, such as arrays.
 
-
+## Things I want to know more about
 
       
-Describe a real world example of when a conditional statement should be used in a JavaScript program.
-Give an example of when a Loop is useful in JavaScript.
+
