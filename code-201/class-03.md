@@ -27,29 +27,33 @@
    *  The **Padding** is a buffer or space between the content and the element's border.
    *  The **Border** outlines the element's content and padding areas, creating a visible boundary for the element.
    *  The **Margin** is crucial for maintaining separation and preventing elements from overlapping.
+
+
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays) [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
 1. What data types can you store inside of an Array?
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-   
-   ## JS Answers
-1. Numbers, strings, booleans, objects
-1. Yes it is and you can access values in this array using array indexing.
-1. += Addition Assignment: Adds the value of variable A to the value of veriable B and assigns the result back to B, -= Subtraction Assignment Subtracts the value of A from the current value of B and assigns the result back to B, *= Multiplication Assignment
-
 ## Example
 
        const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+3. List five shorthand operators for assignment in javascript and describe what they do.
+4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
-List five shorthand operators for assignment in javascript and describe what they do.
-Read the code below and evaluate the last expression and explain what the result would be and why.
+        let a = 10;
+        let b = 'dog';
+        let c = false;
+             
+         // evaluate this
+        (a + c) + b;
 
- let a = 10;
- let b = 'dog';
- let c = false;
+## JS Answers
+1. Numbers, strings, booleans, objects
+2. Yes it is and you can access values in this array using array indexing.
+3. += Addition Assignment: Adds the value of variable A to the value of veriable B and assigns the result back to B, -= Subtraction Assignment Subtracts the value of A from the current value of B and assigns the result back to B, *= Multiplication Assignment
 
- // evaluate this
- (a + c) + b;
+
+
+      
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 Give an example of when a Loop is useful in JavaScript.
