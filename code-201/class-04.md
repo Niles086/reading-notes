@@ -41,3 +41,6 @@
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
 2. Better Code Quality, when working in pairs, both programmers can review and provide immediate feedback on each other's code. Knowledge Sharing and Learning is another benifit. Junior developers can learn from senior developers, and vice versa. 
+
+## Things I want to know more about
+I would like to dive deeper into CSS to create a better UX
