@@ -22,3 +22,4 @@ Images, color, and text are vital in coding as they collectively shape the user 
 1. Describe two ways you could add spacing around the characters displayed in an h1 element. You can add spacing around the characters displayed in an h1 element using CSS by using the letter-spacing, or padding property.
 
  ## Things I want to know more about
+ I want to learn how to more affectivly use CSS 
