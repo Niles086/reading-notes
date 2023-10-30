@@ -31,6 +31,7 @@
 2. Briefly describe the relationship between the DOM and JavaScript
 
 ## Answers Section 2
-
+1. The DOM  representation of a web page's structure. 
+2. JavaScript provides a means to access, modify, and respond to the content and structure of a web page represented by the DOM.
 
 ## Things I want to know more about
