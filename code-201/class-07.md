@@ -24,6 +24,33 @@ Here's an implementation of the EpicFailVideo constructor function.
              console.log(parkourFail);
              console.log(corgiFail);
 
+ 
+**This is object-oriented programming in JavaScript at its most fundamental level.**
+1. The new keyword instantiates (i.e. creates) an object.
+1. The constructor function initializes properties inside that object using the this variable.
+1. The object is stored in a variable for later use.
+
+## Generate random numbers
+
+To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function for just this sort of occasion. 
+
+_EXAMPLE_
+
+            var EpicFailVideo = function(epicRating, hasAnimals) {
+            this.epicRating = epicRating;
+            this.hasAnimals = hasAnimals;
+            }
+
+            EpicFailVideo.prototype.generateRandom = function(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+
+            var parkourFail = new EpicFailVideo(7, false);
+            var corgiFail = new EpicFailVideo(4, true);
+
+            console.log(parkourFail.generateRandom(1, 5));
+            console.log(corgiFail.generateRandom(1, 5));
+
 ## [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 1. Why should tables not be used for page layouts?
