@@ -3,7 +3,7 @@
 
 ## Reading
 
-[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+## [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
    
@@ -29,7 +29,7 @@ But Audio and Video knew they could help. Audio sang a song that made the world 
 
 By working together, they made Glitch go away. The Digital World became peaceful and bright again. Audio and Video showed that when friends work together and use their talents, they can solve big problems. They were heroes in their world and continued to make beautiful things with their talents.
 
-[A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+## [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 1. How does Grid layout differ from Flex
    
@@ -39,7 +39,7 @@ By working together, they made Glitch go away. The Digital World became peaceful
    
   In CSS Grid, there are three important things to know. The "Grid Container" is like a big box where we put all the stuff we want to organize, and it sets the rules for our grid, like how many rows and columns there are. Inside that box, we have "Grid Items," which are the things we want to organize, like pictures or text. We can make these things bigger or smaller. The "Grid Lines" are like invisible lines that help us put our items in the right place. We count them starting from 1, and they guide us to arrange our items neatly in the box. So, the Grid Container is like the boss of our grid, the Grid Items are what we're organizing, and the Grid Lines help us do it the right way.
 
-[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+## [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
    
@@ -55,10 +55,10 @@ By working together, they made Glitch go away. The Digital World became peaceful
 
 ## Bookmark and Review
 
-[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+## [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 _This article is review from Class 05._
 
-[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+## [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 ## Things I want to know more about
