@@ -10,8 +10,7 @@
     The use of video and audio on the web has evolved significantly since the early 2000s. Initially, websites relied on embedded media players with low-quality content. The introduction of HTML5 in the mid-2000s brought native support for video and audio elements, improved codecs, and better cross-browser compatibility. In the 2010s, responsive design, adaptive streaming, and accessibility enhancements became prominent. The 2020s have seen higher video quality, interactive experiences, the growth of live streaming, and a focus on privacy and security. This evolution has transformed the web into a dynamic and immersive multimedia platform.
 
 2. Describe the use of the src and controls attributes in the video element.
-   
-  The src attribute in the HTML video element specifies the video file's source URL, while the controls attribute, when present, adds playback control buttons to the video player. When used together, they enable users to view and control video content on a web page, enhancing the user experience.
+   * The src attribute in the HTML video element specifies the video file's source URL, while the controls attribute, when present, adds playback control buttons to the video player. When used together, they enable users to view and control video content on a web page, enhancing the user experience.
 
 3. Why is it important to have fallback content inside the video element?
    
