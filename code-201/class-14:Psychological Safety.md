@@ -10,3 +10,5 @@
    * In my previous professional setting, psychological safety varied across teams. Teams that encouraged open communication, where everyone had a chance to speak and there was a sense of social sensitivity, tended to be more effective. In contrast, teams with dominant leaders or a lack of empathy struggled to foster a psychologically safe atmosphere.
 3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
    * Teams operating with a high degree of psychological safety positively impact their company by fostering innovation, problem-solving, and employee well-being. Such teams often experience higher job satisfaction, improved collaboration, and increased productivity, contributing to the overall success of the company. Additionally, team members in psychologically safe environments feel more valued and engaged, leading to better retention and a positive workplace culture.
+
+## Things I want to know more about
