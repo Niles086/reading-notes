@@ -5,7 +5,11 @@
 ## Discussion Questions
 
 1. What are three key factors that contribute to psychologically safe teams?
-   * The article discusses the importance of psychological safety in team dynamics and how it significantly contributes to a team's success. The researchers at Google, as part of Project Aristotle, aimed to identify the key factors that make teams effective. They found that norms promoting equal participation in conversations (conversational turn-taking) and high social sensitivity were crucial for creating a psychologically safe environment.
+   * Open Communication: Encouraging team members to express their thoughts, opinions, and ideas without fear of judgment or reprisal creates a foundation of psychological safety. When individuals feel heard and valued, they are more likely to contribute positively to team discussions and share innovative solutions.
+
+   * Trust and Mutual Respect: Building trust among team members is fundamental. When team members trust each other and feel respected, they are more likely to take interpersonal risks, such as admitting mistakes or proposing unconventional ideas. A culture of trust allows for vulnerability without the fear of negative consequences.
+
+   * Clear Expectations and Roles: Clearly defined roles and expectations contribute to a sense of stability within the team. When team members understand their responsibilities and how their contributions align with overall goals, it reduces uncertainty and fosters a sense of security. This clarity enables individuals to focus on their tasks and collaborate more effectively with their team members.
 2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
    * In my previous professional setting, psychological safety varied across teams. Teams that encouraged open communication, where everyone had a chance to speak and there was a sense of social sensitivity, tended to be more effective. In contrast, teams with dominant leaders or a lack of empathy struggled to foster a psychologically safe atmosphere.
 3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
