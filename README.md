@@ -54,12 +54,13 @@ To maintain my growth mindset for this course I remind myself of three things to
 1. [Class 12 - Canvas and ChartJS](https://niles086.github.io/reading-notes/code-201/class-12)
 1. [Class 13 - Introduction to Persistence with Local Storage](https://niles086.github.io/reading-notes/code-201/class-13)
 1. [Class 14 - Documentation, Project Selection, & Team Workflow](https://niles086.github.io/reading-notes/code-201/class-14)
-1. [Class 15 - Course Recap & 301 Preview](https://niles086.github.io/reading-notes/code-201/class-15)
-1. [Class 16 - Planning and Prep](https://niles086.github.io/reading-notes/code-201/class-16)
-1. [Class 17 - Development Sprint](https://niles086.github.io/reading-notes/code-201/class-17)
-1. [Class 18 - Working MVP](https://niles086.github.io/reading-notes/code-201/class-18)
-1. [Class 19 - Polish](https://niles086.github.io/reading-notes/code-201/class-19)
-1. [Class 20 - Presentations](https://niles086.github.io/reading-notes/code-201/class-20)
+1. [Class 14 - Psychological Safety](https://niles086.github.io/reading-notes/code-201/class-14:Psychological Safety)
+2. [Class 15 - Course Recap & 301 Preview](https://niles086.github.io/reading-notes/code-201/class-15)
+3. [Class 16 - Planning and Prep](https://niles086.github.io/reading-notes/code-201/class-16)
+4. [Class 17 - Development Sprint](https://niles086.github.io/reading-notes/code-201/class-17)
+5. [Class 18 - Working MVP](https://niles086.github.io/reading-notes/code-201/class-18)
+6. [Class 19 - Polish](https://niles086.github.io/reading-notes/code-201/class-19)
+7. [Class 20 - Presentations](https://niles086.github.io/reading-notes/code-201/class-20)
 
 ## Code 301 - Intermediate Software Development
 
