@@ -59,3 +59,5 @@ Independence ensures that components can function autonomously, reducing the imp
 [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
+
+## Things I want to know more about
