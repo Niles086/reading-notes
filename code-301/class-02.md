@@ -47,3 +47,5 @@ In Closing props are for passing data from parent to child, while state is for m
 [Boootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
 [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
 [Netlify](https://www.netlify.com/)
+
+## Things I want to know more about
