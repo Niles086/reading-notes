@@ -65,5 +65,6 @@ To maintain my growth mindset for this course I remind myself of three things to
 ## Code 301 - Intermediate Software Development
 
 1. [Introduction to React and Components](https://niles086.github.io/reading-notes/code-301/class-01)
+2. [State and Props](https://niles086.github.io/reading-notes/code-301/class-02)
 
 ## Code 401 - Advanced Software Development
