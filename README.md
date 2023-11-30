@@ -66,5 +66,7 @@ To maintain my growth mindset for this course I remind myself of three things to
 
 1. [Introduction to React and Components](https://niles086.github.io/reading-notes/code-301/class-01)
 2. [State and Props](https://niles086.github.io/reading-notes/code-301/class-02)
+3. [Passing Functions as Props](https://niles086.github.io/reading-notes/code-301/class-03)
+4. [React and Forms](https://niles086.github.io/reading-notes/code-301/class-04)
 
 ## Code 401 - Advanced Software Development
