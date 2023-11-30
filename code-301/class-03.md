@@ -71,10 +71,10 @@ console.log(combinedObject);
 
 How to Pass Functions Between Components
 
-1. In the video, what is the first step that the developer does to pass functions between components?
-2. In your own words, what does the handleClick function do?
-3. How can you pass a method from a parent component into a child component?
-4. How does the child component invoke a method that was passed to it from a parent component?
+1. In the video, what is the first step that the developer does to pass functions between components? He declares the function in the parent component and passes it as a prop to the child component.
+2. In your own words, what does the handleClick function do? It registers the click event and consoles the value of parent click.
+3. How can you pass a method from a parent component into a child component? you need to pass the method as a prop to the child component.
+4. How does the child component invoke a method that was passed to it from a parent component? when the button in ChildComponent is clicked, it will invoke the handleClick function passed down from the parent.
 
 ## Bookmark and Review
 
