@@ -58,3 +58,5 @@ Map:
 map applies a provided function to each element of an array and returns a new array with the results. It takes a function as an argument, which is applied to each element, transforming the original elements into a new set of values.
 
 reduce combines the elements of an array into a single value. It takes a function as an argument that defines the reduction operation. This function typically has an accumulator that accumulates the result and an element that represents each item in the array.
+
+## Things I want to know more about
