@@ -1,25 +1,33 @@
-# Read: Class 09
+Read: Class 09
+Functional Programming: Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. It emphasizes the use of pure functions, immutability, and declarative expressions.
 
-Both functional programming concepts and Node.js modules are critical for developing robust and efficient applications. Here's why:
-Functional Programming:
-Predictable and reliable code: Pure functions and immutability lead to code that's easier to reason about, debug, and test. This reduces bugs, improves maintainability, and promotes code confidence. Modular and reusable components: Functions become independent building blocks, allowing for cleaner code organization and reuse across various parts of your application. Concurrent and parallel execution: Pure functions are inherently thread-safe, enabling easier parallelization and utilization of multi-core processors, boosting performance and scalability. Comprehensible and maintainable code: Referential transparency allows for simpler understanding of program flow and logic, making code more readable and easier to maintain for future developers. Node.js Modules:
-Modular and organized code: Modules encapsulate functionalities, promoting code organization, separation of concerns, and improved code reusability. Simplified development: Importing existing modules allows developers to leverage pre-built functionalities, reducing development time and effort. Code reuse and maintainability: Modules encourage code reuse across different parts of your application, promoting consistency and simplifying maintenance. Improved project structure: Modules organize code logically, making projects more organized and easier to navigate, especially for large applications. Easier collaboration: Sharing modules enables developers to collaborate more effectively by working on independent units without interfering with each other's code. In essence, both functional programming and Node.js modules contribute to writing cleaner, more efficient, and maintainable code. They promote modularity, reusability, predictability, and collaboration, ultimately leading to better software development practices and higher quality applications.
+Pure Function: A pure function is a function that, given the same input, will always return the same output and has no observable side effects. In other words:
 
-Readings: Functional Programming
+Deterministic: The output is solely determined by its input.
+No Side Effects: It does not modify variables outside its scope, and it does not have any observable effects other than returning a value.
+How to Identify a Pure Function:
 
-Functional Programming Concepts
-What is functional programming? -Functional programming is a programming paradigm that emphasizes the use of functions as the primary building blocks of programs. It focuses on immutability, pure functions, and data manipulation through function application.
-What is a pure function and how do we know if something is a pure function? -A pure function is a function that, given the same inputs, always produces the same outputs and does not have any side effects. In other words, it does not modify any external state, including global variables or internal state between calls. -Deterministic: Outputs are solely determined by the inputs. Stateless: Doesn't rely on or modify any external state. Referentially transparent: Can be replaced with its output anywhere in the code without affecting the program's behavior.
-What are the benefits of a pure function? -Reasoning and testing: Predictable behavior due to no side effects makes debugging and testing simpler. Concurrency: Pure functions are thread-safe, enabling easier parallelization and multi-core utilization. Memoization: Pure functions can be memoized (cached) to improve performance. Composition: Pure functions can be easily combined to build complex functions, enhancing modularity and code reuse.
-What is immutability? -Immutability refers to the concept of data being non-modifiable once created. Any changes result in a new data structure instead of altering the existing one. This promotes predictable behavior and simplifies reasoning about program state.
-What is Referential transparency? -Referential transparency guarantees that a function call can be replaced with its return value without affecting the program's behavior. This allows for optimizations like constant folding and function inlining.
+No Side Effects: It should not modify external state or variables.
+Deterministic: Given the same inputs, it always produces the same output.
+No I/O Operations: It does not perform I/O operations, such as reading from files or user input.
+Benefits of Pure Functions:
 
-Videos
+Predictability: Easier to reason about and predict behavior.
+Testability: Easier to test since they have no side effects.
+Concurrency: Safer for concurrent execution due to lack of shared mutable state.
+Memoization: Enables memoization for performance optimization.
+Immutability: Immutability is the concept of making variables and data structures unchangeable or unable to be modified after their creation. In functional programming, immutability is favored to avoid unintended side effects and to make programs more predictable.
 
-Node JS Tutorial for Beginners #6 - Modules and require()
-What is a module? -Modules in Node.js are JavaScript files that contain independent, reusable code. They encapsulate functionality and promote modularity, organization, and code reuse.
-What does the word ‘require’ do? -require() is a built-in function in Node.js used to import modules into a file. It takes the module path as an argument and returns the module's exported object. This object can then be used to access the module's functionalities.
-How do we bring another module into the file the we are working in? -To use functions or variables defined in another module:
-Syntax: const module = require('path/to/module'); Example: const math = require('./math'); imports the math module located in the current directory.
-What do we have to do to make a module available? -To make your module available for import by other files:
-Syntax: module.exports = { ... }; or exports.function = ...; Example: module.exports = { add, subtract }; exports the add and subtract functions.
+Referential Transparency: Referential transparency is a property of pure functions. It means that a function call can be replaced with its resulting value without changing the program's behavior. This property allows for substitution of expressions with their values, aiding in reasoning about and optimizing code.
+
+ 
+
+A module in programming refers to a self-contained unit of code that encapsulates related functionality. Modules help in organizing code into separate files or components, making the codebase more modular, maintainable, and scalable.
+
+require: In contexts like Node.js (CommonJS), require is a keyword used to include and use modules in JavaScript. It is used to import functionality from other modules into the current module. The require statement loads the specified module and returns the exported functionality, making it available for use in the current module.
+
+Bringing Another Module: To bring another module into the file you are working in, you use the require statement followed by the path to the module.
+
+ 
+
+Making a Module Available: To make a module available for use in other files, you need to export the functionality you want to expose. In Node.js (CommonJS), you typically use module.exports or exports to define what gets exported from a module.
