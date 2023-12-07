@@ -72,5 +72,6 @@ To maintain my growth mindset for this course I remind myself of three things to
 6. [REST](https://niles086.github.io/reading-notes/code-301/class-06)
 7. [NODE.JS](https://niles086.github.io/reading-notes/code-301/class-07)
 8. [API's](https://niles086.github.io/reading-notes/code-301/class-08)
+9. [Functional Programming](https://niles086.github.io/reading-notes/code-301/class-09)
 
 ## Code 401 - Advanced Software Development
