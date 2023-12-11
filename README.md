@@ -74,5 +74,7 @@ To maintain my growth mindset for this course I remind myself of three things to
 8. [API's](https://niles086.github.io/reading-notes/code-301/class-08)
 9. [Functional Programming](https://niles086.github.io/reading-notes/code-301/class-09)
 10. [In memory storage](https://niles086.github.io/reading-notes/code-301/class-10)
+11. [MongoDB and Mongoose](https://niles086.github.io/reading-notes/code-301/class-11)
+12. [GraphQL](https://niles086.github.io/reading-notes/code-301/class-12)
 
 ## Code 401 - Advanced Software Development
