@@ -77,4 +77,5 @@ To maintain my growth mindset for this course I remind myself of three things to
 11. [MongoDB and Mongoose](https://niles086.github.io/reading-notes/code-301/class-11)
 12. [Crude](https://niles086.github.io/reading-notes/code-301/class-12)
 13. [More CRUD](https://niles086.github.io/reading-notes/code-301/class-13)
+14. [Diversity & Inclusion in the Tech Industry](https://niles086.github.io/reading-notes/code-301/class-14)
 ## Code 401 - Advanced Software Development
