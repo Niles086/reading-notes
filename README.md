@@ -83,3 +83,4 @@ To maintain my growth mindset for this course I remind myself of three things to
 ## Code 401 - Advanced Software Development
 
 1. [SQL prep](https://niles086.github.io/reading-notes/code-401/sql)
+2. [Terminal Prep](https://niles086.github.io/reading-notes/code-401/terminal)
