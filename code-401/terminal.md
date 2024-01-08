@@ -1,6 +1,6 @@
 # Terminal Notes
 
-All in all this was a nine refresher. I dont feel like I learned anything new about the terminal as I have been using it for over 17 years professionally in other roles in the IT industry. I find it to me a very useful tool rather than solely relying on the GUI 
+All in all this was a nice refresher. I dont feel like I learned anything new about the terminal as I have been using it for over 17 years professionally in other roles in the IT industry. I find it to me a very useful tool rather than solely relying on the GUI 
 
 Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell.
 
