@@ -91,7 +91,7 @@ INNER JOIN combines rows from two or more tables based on a common column.
 
 LEFT JOIN: return all the rows from the left table and any rows from the right table that match them.
 
-![results1](sql1.png)
+![results1](sql1.PNG)
 ![results2](sql2.png)
 ![results3](sql3.png)
 ![results4](sql4.png)
