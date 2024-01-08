@@ -92,16 +92,16 @@ INNER JOIN combines rows from two or more tables based on a common column.
 LEFT JOIN: return all the rows from the left table and any rows from the right table that match them.
 
 ![results1](sql1.PNG)
-![results2](sql2.png)
-![results3](sql3.png)
-![results4](sql4.png)
-![results5](sql5.png)
-![results6](sql6.png)
-![results7](sql13.png)
-![results8](sql14.png)
-![results9](sql15.png)
-![results10](sql16.png)
-![results11](sql17.png)
-![results12](sql18.png)
+![results2](sql2.PNG)
+![results3](sql3.PNG)
+![results4](sql4.PNG)
+![results5](sql5.PNG)
+![results6](sql6.PNG)
+![results7](sql13.PNG)
+![results8](sql14.PNG)
+![results9](sql15.PNG)
+![results10](sql16.PNG)
+![results11](sql17.PNG)
+![results12](sql18.PNG)
 
 
