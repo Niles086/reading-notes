@@ -87,3 +87,4 @@ To maintain my growth mindset for this course I remind myself of three things to
 3. [Data Structures and Algorithms](https://niles086.github.io/reading-notes/code-401/datastructuresandalgorithms)
 4. [engineering](https://niles086.github.io/reading-notes/code-401/engineering-reading)
 4. [class-01](https://niles086.github.io/reading-notes/code-401/class-01)
+5. [class-02](https://niles086.github.io/reading-notes/code-401/class-02)
