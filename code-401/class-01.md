@@ -2,7 +2,7 @@
 
 ## Reading Questions
 
-In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles.
+## In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles.
 Mental Challenges:
 
 Students will be pushed mentally to think their way through problems, often encountering new concepts shortly before having to apply them. This requires rapid assimilation of information and problem-solving skills.
@@ -14,7 +14,7 @@ Physical Challenges:
 Although sitting and staring at a screen might not be physically strenuous, the consecutive hours of it can take a toll. Students may experience fatigue, loss of sleep, and a neglect of physical health due to the demanding nature of the course.
 Strategies for Overcoming these Challenges:
 
-Perspective and Purpose:
+## Perspective and Purpose:
 
 Encourage students to reflect on their perspective and purpose. Understand why they chose this learning path, what they hope to achieve at the end of the journey, and whether they are doing it for personal growth and fulfillment.
 Embrace Growth and Learning:
@@ -26,17 +26,18 @@ Emphasize the importance of building a supportive community. Collaborate with fe
 
 After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.
 
-Time Complexity:
+## Time Complexity:
+
 Time complexity is a measure of the amount of time an algorithm takes to complete based on the size of the input data. It is expressed using Big O notation. Time complexity helps in analyzing the efficiency of an algorithm by providing an upper bound on the growth rate of the running time concerning the input size.
 
 Space Complexity:
 Space complexity is a measure of the amount of memory space an algorithm uses based on the size of the input data. Like time complexity, it is expressed using Big O notation. Space complexity helps in understanding how the memory requirements of an algorithm scale with the input size.
 
-Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
+## Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
 
 Key Differences:
 
-Mutability:
+## Mutability:
 
 Mutable types can be modified after creation.
 Immutable types cannot be modified after creation.
