@@ -85,4 +85,5 @@ To maintain my growth mindset for this course I remind myself of three things to
 1. [SQL prep](https://niles086.github.io/reading-notes/code-401/sql)
 2. [Terminal Prep](https://niles086.github.io/reading-notes/code-401/terminal)
 3. [Data Structures and Algorithms](https://niles086.github.io/reading-notes/code-401/datastructuresandalgorithms)
+4. [engineering](https://niles086.github.io/reading-notes/code-401/engineering-reading)
 4. [class-01](https://niles086.github.io/reading-notes/code-401/class-01)
