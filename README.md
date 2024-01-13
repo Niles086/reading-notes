@@ -90,3 +90,11 @@ To maintain my growth mindset for this course I remind myself of three things to
 6. [class-02](https://niles086.github.io/reading-notes/code-401/class-02)
 7. [class-03](https://niles086.github.io/reading-notes/code-401/class-03)
 8. [prep your mindset](https://niles086.github.io/reading-notes/code-401/prep-your-mindset)
+9. [class-04](https://niles086.github.io/reading-notes/code-401/class-04)
+10. [class-05](https://niles086.github.io/reading-notes/code-401/class-05)
+11. [class-06](https://niles086.github.io/reading-notes/code-401/class-06)
+12. [class-07](https://niles086.github.io/reading-notes/code-401/class-07)
+13. [class-08](https://niles086.github.io/reading-notes/code-401/class-08)
+14. [class-09](https://niles086.github.io/reading-notes/code-401/class-09)
+15. [class-10](https://niles086.github.io/reading-notes/code-401/class-10)
+1
