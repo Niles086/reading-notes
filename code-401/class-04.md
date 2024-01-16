@@ -64,3 +64,5 @@ Example:
 Tools like pytest-cov can be used with Pytest to generate code coverage reports.
 
 By combining Pytest fixtures and code coverage analysis, you can create a robust testing environment. Fixtures ensure a consistent and well-prepared test environment, while code coverage reports guide you in enhancing your test suite's completeness. This approach contributes to the overall quality and maintainability of a project by fostering a testing culture and helping catch potential issues early in the development process.
+
+## Things I want to know more about
