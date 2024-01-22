@@ -49,6 +49,7 @@ Example of a Simple Decorator:
                 # Something is happening before the function is called.
                 # Hello!
                 # Something is happening after the function is called.
+
 In this example, my_decorator wraps the say_hello function, adding behavior before and after its execution. The @my_decorator syntax is a shorthand way of applying the decorator to the function.
 
 
